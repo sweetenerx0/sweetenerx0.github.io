@@ -67,7 +67,7 @@
 </head>
 <body>
   <header>
-    <h1>Hi. This is Dani's Website. Please feel free to poke around.</h1>
+    <h1><i>Hi. This is Dani's Website. Please feel free to poke around.</i></h1>
     <h2> Please give her the job. She'll work really hard and she's a pleasure to have!</h2>
   </header>
 
