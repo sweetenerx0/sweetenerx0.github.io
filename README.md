@@ -83,8 +83,7 @@
     </section>
 
     <!-- Body paragraph -->
-    <p>Thank you for visiting. Here is my instagram page, although I do not post too often. Follow me!</p>
-    <a href="http://instagram.com/_u/_dani.117_/">Link to Instagram Page</a>
+    <p>Thank you for visiting. Here is my <a href="http://instagram.com/_u/_dani.117_/">my Instagram page</a>, although I do not post too often. Follow me!</p>
   </main>
 
   <script>
