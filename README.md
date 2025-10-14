@@ -67,7 +67,8 @@
 </head>
 <body>
   <header>
-    <h1>Hi. This is Dani's Website. Please give her the job (she'll work really hard!)</h1>
+    <h1>Hi. This is Dani's Website. Please feel free to poke around.</h1>
+    <h2> Please give her the job. She'll work really hard and she's a pleasure to have!</h2>
   </header>
 
   <main>
@@ -82,7 +83,8 @@
     </section>
 
     <!-- Body paragraph -->
-    <p>test</p>
+    <p>Thank you for visiting. Here is my instagram page, although I do not post too often. Follow me!</p>
+    <a href="http://instagram.com/_u/_dani.117_/">Link to Instagram Page</a>
   </main>
 
   <script>
