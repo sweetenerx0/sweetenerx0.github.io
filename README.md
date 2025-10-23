@@ -32,6 +32,7 @@
       color: gray;  /* Subtle color change on hover */
     }
   </style>
+  <style>
     /* Centered header */
     header {
       padding: 48px 16px;
