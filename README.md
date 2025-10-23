@@ -1,12 +1,12 @@
 <html lang="en">
   <head>
     <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    html, body {;
       background-color: #fcdced; /* baby pink */
       color: #222;
+    }
+    h1{
+    text-align: center;
     }
     </style>
   </head>
