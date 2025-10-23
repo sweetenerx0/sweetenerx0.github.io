@@ -13,7 +13,25 @@
       background-color: #fcdced; /* baby pink */
       color: #222;
     }
+  <style>
+    /* Style for the About button */
+    .about-btn {
+      background: none;        /* No background */
+      border: none;            /* No border */
+      color: black;            /* Black text */
+      font-size: 18px;         /* Formal font size */
+      font-family: 'Georgia', serif;  /* Optional: formal serif font */
+      cursor: pointer;         /* Pointer on hover */
+      text-decoration: none;   /* No underline */
+      padding: 8px 16px;       /* Some spacing */
+      transition: color 0.3s;  /* Smooth hover effect */
+    }
+      <a href="/about" class="about-btn">About</a>
 
+    .about-btn:hover {
+      color: gray;  /* Subtle color change on hover */
+    }
+  </style>
     /* Centered header */
     header {
       padding: 48px 16px;
