@@ -70,7 +70,7 @@
     <h1><i>Hi. This is Dani's Website. Please feel free to poke around.</i></h1>
     <h2> Please give her the job. She'll work really hard and she's a pleasure to have!</h2>
   </header>
-<a href="https://yourusername.github.io/about.html">About</a>
+
   <main>
     <!-- Image upload & preview area -->
     <section class="image-box" aria-label="Image upload and preview">
@@ -80,6 +80,7 @@
       <label for="imageInput" class="file-label">Choose an image to preview</label>
       <input id="imageInput" type="file" accept="image/*" />
       <small>If you do not select a file, the static image path above will be shown (replace the src).</small>
+      <a href="https://yourusername.github.io/about.html">About</a>
     </section>
 
     <!-- Body paragraph -->
