@@ -1,92 +1,22 @@
-
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>About Dani</title>
-  <style>
-    /* Page styling */
-    html, body {
-      height: 100%;
-      margin: 0;
-      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  <head>
+    <style>
+    html, body {;
       background-color: #fcdced; /* baby pink */
       color: #222;
     }
-    header {
-      padding: 48px 16px;
+    h1{
+    text-align: center;
+    }
+    .center-link {
       text-align: center;
     }
-    header h1 {
-      margin: 0;
-      font-size: 28px;
-      line-height: 1.2;
-      font-weight: 600;
-    }
-
-    /* Main content area */
-    main {
-      max-width: 900px;
-      margin: 24px auto;
-      padding: 0 16px;
-    }
-
-    /* Image area */
-    .image-box {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 12px;
-      margin: 20px 0;
-    }
-    .image-box img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    }
-
-    /* Small helper styles */
-    label.file-label {
-      background: #fff;
-      padding: 8px 12px;
-      border-radius: 6px;
-      cursor: pointer;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.06);
-    }
-    input[type="file"] {
-      display: none;
-    }
-
-    p {
-      font-size: 16px;
-    }
-  </style>
-</head>
+    </style>
+  </head>
 <body>
-  <header>
-    <h1><i>Who is this girl?</i></h1>
-
-  </header>
-
-  <main>
-
-    <p>I am Daniela but please, call me Dani. I am currently a junior pursuing my degree in Computer Science, and I would love to get into software engineering or programming in the aviation field<br>
-I have a lot of things related to my career goals that pique my interest, such as my love for fighter jets, learning different programs and softwares, and working on my personal projects</p>
-  </main>
-
-  <script>
-    // Simple image preview: when user selects a file, show it in the <img id="preview">
-    const input = document.getElementById('imageInput');
-    const preview = document.getElementById('preview');
-
-    input.addEventListener('change', () => {
-      const file = input.files && input.files[0];
-      if (!file) return;
-
-      const reader = new FileReader();
-      reader.onload = (e) => {
-        preview.src = e.target.result;
-        preview.alt = file.name;
-      };
-      reader.readAsDataURL(file);
+  
+  <h1>About Dani</h1>
+  <p class="center-link">So who is Dani?<br>I'm currently a junior trying to get my Bachelor's degree in Computer Science. I love to program the most out of all the sectors of computer science, but do have experience in cloud-based network setup,ethical hacking, along with digital forensics. <br>
+Professionally, I would love to work towards aviation programming, as I have a strong interest in jets and see it is a great way to innovate and create for future technologies</p>
+</body>
+</html>
