@@ -23,7 +23,7 @@
   <p>Right now, I am trying to complete a MATLAB certificate, while finishing up my classes in Java Programming and Introductory Digital Forensics
     <br> <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3e7bb816-e317-4d18-848d-849ce033bff4&"> My MATLAB Onramp Certificate Progress
     <br> <a href = "https://github.com/sweetenerx0"> GitHub Repositories for class
-    <br> <a href = https://docs.google.com/document/d/1Ymp8mLLeJDKBRs_ww78V_IcoEv0nPQ6WI-rincW9c-k/edit?usp=sharing"> Documenting the development of my latest Java assignment
+    <br> <a href = "https://docs.google.com/document/d/1Ymp8mLLeJDKBRs_ww78V_IcoEv0nPQ6WI-rincW9c-k/edit?usp=sharing"> Documenting the development of my latest Java assignment
   </p>
   <p> I plan on creating a model figure of a Lockheed Martin F117 and using that as my projectile in my MATLABS projectile motion simulator.<br> A lot of this is self taught, meaning I am having to use books, the Internet, online forums from 11 years ago, and AI to review my code.</p>
   <p>Since I am a student, I have a class this semester in Java programming and a class on Digital Forensics, both of which I enjoy so very much. I wasn't always the best in English classes or math, but being able to create digitally brings me so much joy. </p>
