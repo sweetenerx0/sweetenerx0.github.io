@@ -17,10 +17,11 @@
   
   <h1>Nice to meet you, I'm Dani!</h1>
   <p class="center-link">This website documents my project progress as I learn and create. Feel free to contact me at one of my socials:<br>
-  <a href="https://discord.gg/5YHBVakJ"><button style="background-color: lightpink; color: #333; border: none; padding: 10px 20px; border-radius: 5px;">Discord</button></a><br>
+  <a href="https://discord.gg/hfEH56RT"><button style="background-color: lightpink; color: #333; border: none; padding: 10px 20px; border-radius: 5px;">Discord</button></a><br>
   <a href="https://instagram.com/_dani.117_"><button style="background-color: lightpink; color: #333; border: none; padding: 10px 20px; border-radius: 5px;">Instagram</button></a></p>
   <h1>What I've been doing</h1>
-  <p>Right now, I am working on a projectile on top of school work, including:
+  <p>Right now, I am trying to complete a MATLAB certificate, while finishing up my classes in Java Programming and Introductory Digital Forensics
+    <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=3e7bb816-e317-4d18-848d-849ce033bff4&"> MATLAB Onramp Certificate Progress
     <br> -learning MATLABS<br> -learning model figuring in Blender
     <br> -and making this website to document my journey. 
   </p>
